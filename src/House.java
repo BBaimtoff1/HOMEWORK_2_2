@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public enum House {
+public enum House {
+    BIG, SMALL, AVERAGE
 }
+
+
